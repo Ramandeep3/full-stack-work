@@ -1,2 +1,3 @@
-# practice-rep
-this is the practice for repo
+# full-stack-work
+
+all the projects are here
